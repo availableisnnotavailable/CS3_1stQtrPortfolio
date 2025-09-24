@@ -1,8 +1,8 @@
 # Variable Declaration - It is very similar to declaring variables in different coding languages. Prior knowledge helped me to easily understand and adapt to it.
 # JavaScript  Arithmetic Operations - The operations are just based on normal arithmetic. This made it very easy learn and apply.
 # JavaScript Assignment Operations -  I found this topic easier than the other JavaScript operations since it worked the same way for all. For example x+=1 is x=x+1, while x*=5 is x=x*5, which made it easier to grasp.
-#
-#
+# Printing a function output - The concept was very easy to grasp since it is similar to console.log.
+# Return Statement - Learning about this was helpful in writing codes and can help create shortcuts. It is also relatively easy to learn and apply.
 
 # JavaScript Comparison Operators -  I had a bit of trouble dealing with this but I don't think so anymore. I simply got confused with there being more than one equal sign and the different comparisons behind them.
 #  For..in Loop -  This loop confused me when learning about it. I did not use it before CS3 so I had no experience and grasping the concept was a bit difficult.
